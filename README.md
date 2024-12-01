@@ -35,4 +35,5 @@ python -m unittest tests.py
 
 
 2. Написаны тесты, которые успешно выполняются:
-![тесты.png](%F2%E5%F1%F2%FB.png)
+
+![tests.png](tests.png)
